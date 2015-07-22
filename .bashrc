@@ -123,7 +123,7 @@ fi
 #}
 
 # { Tests
-    PROGS="vim ctags orpie svn"
+    PROGS="vim ctags orpie yEd svn" 
     FULL_THRH=90
     
     # { Test Prog list installed
