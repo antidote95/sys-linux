@@ -92,8 +92,8 @@ fi
         }
     # }
     # { VIM
-        alias vi="/usr/local/bin/vim -p"
-        alias vim="/usr/local/bin/vim -p"
+        alias vi="/usr/bin/vim -p"
+        alias vim="/usr/bin/vim -p"
     # }
     
     # { Working dir shortcut
